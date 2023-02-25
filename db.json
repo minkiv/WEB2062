@@ -1,3 +1,28 @@
 {
-    "products": []
+  "products": [
+    {
+      "id": 1,
+      "name": "áo",
+      "image": "./src/images/dan2.png",
+      "price": "23,000",
+      "quality": 5,
+      "desc": "Nguyễn THị HIệp"
+    },
+    {
+      "name": "ecma",
+      "image": "C:\\fakepath\\Screenshot_20221207_050304.png",
+      "price": "0.003",
+      "quality": "6",
+      "desc": "kjla;fda",
+      "id": 2
+    },
+    {
+      "name": "ecma",
+      "image": "C:\\fakepath\\dan2.png",
+      "price": "0.003",
+      "quality": "4",
+      "desc": "4qwr",
+      "id": 3
+    }
+  ]
 }

@@ -1,0 +1,35 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-top: 9px;
+  margin-bottom: 40px;
+}
+.grid h4 {
+  margin: auto;
+}
+.grid ul {
+  border: 1px solid brown;
+  border-radius: 8px;
+  height: 40px;
+  width: 400px;
+  margin: auto;
+  color: black;
+  padding-top: 10px;
+}
+.grid li {
+  display: inline;
+}
+.grid a {
+  text-decoration: none;
+  color: black;
+  margin: 0 10px;
+  /* height: 38px; */
+  padding: 5px;
+  border-radius: 50px;
+}
+.grid a:hover {
+  background-color: antiquewhite;
+}

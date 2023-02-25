@@ -1,0 +1,13 @@
+.add h1 {
+  margin-bottom: 20px;
+}
+.add label {
+  margin-top: 40px;
+}
+.add textarea {
+  display: block;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
